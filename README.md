@@ -1,2 +1,4 @@
-this a project named project2.
-it is for epicodes.
+This a project named project2.
+It is for a code revier
+Epicodus
+Portfolio 
